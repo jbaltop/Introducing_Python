@@ -2,7 +2,7 @@
 
 import json
 from urllib.request import urlopen
-url = "https://raw.githubusercontent.com/AstinChoi/introducing - python/master/intro/top_rated.json"
+url = "https://raw.githubusercontent.com/AstinChoi/introducing-python/master/intro/top_rated.json"
 response = urlopen(url)
 contents = response.read()
 text = contents.decode('utf8')
