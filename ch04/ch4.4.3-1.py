@@ -6,5 +6,5 @@ while position < len(numbers):
 		print('Found even number', number)
 		break
 	position += 1
-else: #break가 호출되지 않았다.
+else:
 	print('No even number found')

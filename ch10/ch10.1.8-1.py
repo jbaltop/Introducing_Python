@@ -1,4 +1,4 @@
-# windows에는 chown이 없음
+# linux only
 
 import os
 

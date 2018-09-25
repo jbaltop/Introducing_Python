@@ -1,7 +1,7 @@
-# 보안되지 않은 parse
+# unsecure parse
 from xml.etree.ElementTree import parse
 et = parse(xmlfile)
 
-# 보안된 parse
+# secure parse
 from defusedxml.ElementTree import parse
 et = parse(xmlfile)
