@@ -1,9 +1,8 @@
 import collections
 from pprint import pprint
-quotes = collections.OrderedDict([
-	('Moe', 'A wise guy, huh?'),
-	('Larry', 'Ow!'),
-	('Curly', 'Nyuk nyuk!'),
-	])
+
+quotes = collections.OrderedDict(
+    [("Moe", "A wise guy, huh?"), ("Larry", "Ow!"), ("Curly", "Nyuk nyuk!")]
+)
 print(quotes)
 pprint(quotes)

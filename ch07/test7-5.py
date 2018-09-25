@@ -1,4 +1,4 @@
-letter = '''Dear {salutation} {name},
+letter = """Dear {salutation} {name},
 
 Thank you for your letter. We are sorry that our {product} {verbed} in your {room}. Please note that it should never be used in a {room}, especially near any {animals}.
 
@@ -8,8 +8,19 @@ Thank you for your support.
 
 Sincerely,
 {spokesman}
-{job_title}'''
+{job_title}"""
 
-response = {'salutation': 'sir', 'name': 'Linus Torvalds', 'product': 'computer', 'verbed': 'virused', 'room': 'room', 'animals': 'dogs', 'amount': '$1000', 'percent': '90', 'spokesman': 'Chris Anderson', 'job_title': 'entrepreneur'}
+response = {
+    "salutation": "sir",
+    "name": "Linus Torvalds",
+    "product": "computer",
+    "verbed": "virused",
+    "room": "room",
+    "animals": "dogs",
+    "amount": "$1000",
+    "percent": "90",
+    "spokesman": "Chris Anderson",
+    "job_title": "entrepreneur",
+}
 
 print(letter.format(**response))

@@ -1,8 +1,10 @@
 import pickle
 
-class Tiny():
-	def __str__(self):
-		return 'tiny'
+
+class Tiny:
+    def __str__(self):
+        return "tiny"
+
 
 obj1 = Tiny()
 pickled = pickle.dumps(obj1)

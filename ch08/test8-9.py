@@ -1,8 +1,8 @@
 import sqlite3
 
-conn = sqlite3.connect('books.db')
+conn = sqlite3.connect("books.db")
 curs = conn.cursor()
-curs.execute('SELECT * FROM books ORDER BY year')
+curs.execute("SELECT * FROM books ORDER BY year")
 print(curs.fetchall())
 
 curs.close()

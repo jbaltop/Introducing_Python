@@ -1,6 +1,6 @@
 import re
 
-mammoth = '''We have seen thee, queen of cheese,
+mammoth = """We have seen thee, queen of cheese,
 Lying quietly at your ease,
 Gently fanned by evening breeze,
 Thy fair form no flies dare seize.
@@ -28,10 +28,10 @@ We could not sing, oh! queen of cheese.
 We'rt thou suspended from balloon,
 You'd cast a shade even at noon,
 Folks would think it was the moon
-About to fall and crush them soon.'''
+About to fall and crush them soon."""
 
-print(re.findall(r'\bc\w*', mammoth))
-print(re.findall(r'\bc\w{3}\b', mammoth))
-print(re.findall(r'\b\w*r\b', mammoth))
-print(re.findall(r'\b\w*[aeiou]{3}[^aeiou]\w*\b', mammoth))
-print(re.findall(r'\b\w*[aeiou]{3}[^aeiou\s]*\w*\b', mammoth))
+print(re.findall(r"\bc\w*", mammoth))
+print(re.findall(r"\bc\w{3}\b", mammoth))
+print(re.findall(r"\b\w*r\b", mammoth))
+print(re.findall(r"\b\w*[aeiou]{3}[^aeiou]\w*\b", mammoth))
+print(re.findall(r"\b\w*[aeiou]{3}[^aeiou\s]*\w*\b", mammoth))

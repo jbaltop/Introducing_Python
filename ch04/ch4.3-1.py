@@ -1,5 +1,5 @@
 disaster = True
 if disaster:
-	print("Woe!")
+    print("Woe!")
 else:
-	print("Whee!")
+    print("Whee!")

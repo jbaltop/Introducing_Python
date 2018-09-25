@@ -2,10 +2,7 @@ import time
 
 now = time.time()
 
-dateAndTimes = [
-	now,
-	time.ctime(now)
-]
+dateAndTimes = [now, time.ctime(now)]
 
 for dateAndTime in dateAndTimes:
-	print(dateAndTime)
+    print(dateAndTime)

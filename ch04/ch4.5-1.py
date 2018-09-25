@@ -1,5 +1,5 @@
-rabbits = ['Flopsy', 'Mopsy', 'Cottontail', 'Peter']
+rabbits = ["Flopsy", "Mopsy", "Cottontail", "Peter"]
 current = 0
 while current < len(rabbits):
-	print(rabbits[current])
-	current += 1
+    print(rabbits[current])
+    current += 1

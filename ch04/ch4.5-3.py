@@ -1,3 +1,3 @@
-word = 'cat'
+word = "cat"
 for letter in word:
-	print(letter)
+    print(letter)

@@ -1,6 +1,6 @@
 import time
 
-fin = open('today.txt', 'rt')
+fin = open("today.txt", "rt")
 today_string = fin.read()
 fin.close()
 

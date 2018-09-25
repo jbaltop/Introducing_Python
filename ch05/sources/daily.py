@@ -1,3 +1,3 @@
 def forecast():
-	'fake daily forecast'
-	return 'like yesterday'
+    "fake daily forecast"
+    return "like yesterday"
