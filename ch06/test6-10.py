@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 class Laser():
 	def does(self):
 		return 'disintegrate'

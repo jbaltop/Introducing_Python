@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 while True:
 	value = input("Integer, please [q to quit]: ")
 	if value == 'q': #종료

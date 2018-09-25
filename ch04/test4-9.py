@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def get_odds():
 	for number in range(1, 10, 2):
 		yield number

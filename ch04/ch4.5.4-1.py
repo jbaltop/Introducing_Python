@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 days = ['Monday', 'Tuesday', 'Wednesday']
 fruits = ['banana', 'orange', 'peach']
 drinks = ['coffee', 'tea', 'beer']

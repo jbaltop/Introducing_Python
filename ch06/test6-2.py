@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 class Thing2():
 	letters = 'abc'
 

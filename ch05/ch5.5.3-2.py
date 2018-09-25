@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 from collections import OrderedDict
 quotes = OrderedDict([
 	('Moe', 'A wise guy, huh?'),

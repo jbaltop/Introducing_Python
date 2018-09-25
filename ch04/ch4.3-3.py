@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 color = "puce"
 if color == "red":
 	print("It's a tomato")

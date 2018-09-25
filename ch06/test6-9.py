@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 class Bear():
 	def eats(self):
 		return 'berries'

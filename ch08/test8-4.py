@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import csv
 
 with open('books.csv', 'rt') as fin:

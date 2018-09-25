@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 furry = True
 small = True
 if furry:

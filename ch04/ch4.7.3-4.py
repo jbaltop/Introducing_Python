@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def nonbuggy(arg, result=None):
 	if result is None:
 		result = []

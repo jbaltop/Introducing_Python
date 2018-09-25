@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 animal = 'fruitbat'
 def print_global():
 	print('inside print_global:', animal)

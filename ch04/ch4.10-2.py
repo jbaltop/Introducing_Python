@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 animal = 'fruitbat'
 def change_and_print_global():
 	global animal

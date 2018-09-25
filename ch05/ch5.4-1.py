@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 from sources import daily, weekly
 
 print("Daily forecast:", daily.forecast())

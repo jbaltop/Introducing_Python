@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 # windows에는 chown이 없음
 
 import os

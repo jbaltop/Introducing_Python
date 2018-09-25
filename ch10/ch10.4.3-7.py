@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 # linux only
 
 import locale

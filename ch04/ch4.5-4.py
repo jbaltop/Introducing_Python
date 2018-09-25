@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 accusation = {'room': 'ballroom', 'weapon': 'lead pipe', 'person': 'Col. Mustard'}
 for card in accusation: # 혹은 for card in accusation.keys():
 	print(card)

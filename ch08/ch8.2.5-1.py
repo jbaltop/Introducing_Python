@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import yaml
 with open('mcintyre.yaml', 'rt') as fin:
 	text = fin.read()

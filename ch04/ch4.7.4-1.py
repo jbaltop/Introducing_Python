@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def print_more(required1, required2, *args):
 	print('Need this one:', required1)
 	print('Need this one too:', required2)

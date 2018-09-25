@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def knights2(saying):
 	def inner2():
 		return "We are the knights who say: '%s'" % saying

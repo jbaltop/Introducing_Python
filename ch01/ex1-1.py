@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import json
 from urllib.request import urlopen
 url = "https://raw.githubusercontent.com/AstinChoi/introducing-python/master/intro/top_rated.json"

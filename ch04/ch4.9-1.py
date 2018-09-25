@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def document_it(func):
 	def new_function(*args, **kwargs):
 		print('Running function:', func.__name__)

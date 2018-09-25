@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import re
 
 result = re.match('You', 'Young Frankenstein')

@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 guess_me = 7
 start = 1
 while True:

@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def amazing():
 	'''This is the amazing function.
 	Want to see it again?'''

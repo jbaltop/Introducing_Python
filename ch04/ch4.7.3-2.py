@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def buggy(arg, result=[]):
 	result.append(arg)
 	print(result)

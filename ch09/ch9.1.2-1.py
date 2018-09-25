@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import urllib.request as ur
 
 url = 'http://quotesondesign.com/wp-json/posts'

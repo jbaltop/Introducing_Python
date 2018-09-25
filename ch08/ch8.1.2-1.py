@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 fin = open('relativity', 'rt')
 poem = fin.read()
 fin.close()

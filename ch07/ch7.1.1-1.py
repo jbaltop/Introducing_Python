@@ -1,5 +1,3 @@
-#!/use/local/bin/python3
-
 import unicodedata
 
 def unicode_test(value):

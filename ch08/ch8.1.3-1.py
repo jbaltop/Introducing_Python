@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 bdata = bytes(range(0, 256))
 print(len(bdata))
 

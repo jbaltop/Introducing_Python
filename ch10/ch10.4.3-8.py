@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import locale
 
 names = locale.locale_alias.keys()

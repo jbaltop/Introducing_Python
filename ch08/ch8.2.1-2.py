@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import csv
 
 with open('villains', 'rt') as fin:

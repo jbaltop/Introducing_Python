@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 cliches = [
 	"At the end of the day",
 	"Having said that",

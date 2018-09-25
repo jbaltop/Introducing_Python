@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def test(func):
 	def new_func(*args, **kwargs):
 		print('start')

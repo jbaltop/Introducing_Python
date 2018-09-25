@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import itertools
 def multiply(a, b):
 	return a * b

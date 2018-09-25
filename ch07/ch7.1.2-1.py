@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 print('%s' % 42)
 print('%d' % 42)
 print('%x' % 42)

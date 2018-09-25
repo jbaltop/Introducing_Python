@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 quotes = {
 	"Moe": "A wise guy, huh?",
 	"Larry": "Ow!",

@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 print('''My kitty cat likes %s,
 My kitty cat likes %s,
 My kitty cat fell on his %s

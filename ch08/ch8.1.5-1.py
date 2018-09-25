@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 poem """
 There was a young lady named Bright,
 Whose speed was far faster than light;

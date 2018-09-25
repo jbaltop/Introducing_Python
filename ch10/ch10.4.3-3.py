@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 from datetime import date, time
 
 some_day = date(2015, 12, 12)

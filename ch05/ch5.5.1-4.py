@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 dict_counter = {}
 for food in ['spam', 'spam', 'eggs', 'spam']:
 	if not food in dict_counter:

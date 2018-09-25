@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 numbers = [1, 3, 5]
 position = 0
 while position < len(numbers):

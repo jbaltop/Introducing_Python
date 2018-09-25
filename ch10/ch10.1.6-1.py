@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import os
 
 os.link('oops.txt', 'yikes.txt')

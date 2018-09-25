@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 from bottle import route, run, static_file
 
 @route('/')

@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import collections
 from pprint import pprint
 quotes = collections.OrderedDict([

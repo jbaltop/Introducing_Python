@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import requests
 
 url = 'http://quotesondesign.com/wp-json/posts'

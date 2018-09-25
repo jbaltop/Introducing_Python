@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 class Element():
 	def __init__(self, name, symbol, number):
 		self.__name = name

@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 place = 'caf\u00e9'
 print(place)
 print(type(place))

@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 periodic_table = {'Hydrogen': 1, 'Helium': 2}
 print(periodic_table)
 carbon = periodic_table.setdefault('Carbon', 12)

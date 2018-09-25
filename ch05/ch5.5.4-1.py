@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def palindrome(word):
 	from collections import deque
 	dq = deque(word)

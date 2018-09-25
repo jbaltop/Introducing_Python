@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import time
 
 fin = open('today.txt', 'rt')

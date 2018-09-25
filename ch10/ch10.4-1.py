@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import calendar
 
 years = [1900, 1996, 1999, 2000, 2002, 2004]

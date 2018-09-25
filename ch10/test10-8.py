@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 from datetime import date
 import time
 

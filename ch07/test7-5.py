@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 letter = '''Dear {salutation} {name},
 
 Thank you for your letter. We are sorry that our {product} {verbed} in your {room}. Please note that it should never be used in a {room}, especially near any {animals}.

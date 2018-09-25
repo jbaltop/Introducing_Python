@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def is_none(thing):
 	if thing is None:
 		print("It's None")

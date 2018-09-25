@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import subprocess
 
 ret1 = subprocess.getoutput('date')

@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 poem = ''
 fin = open('relativity', 'rt')
 while True:

@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import dbm
 
 db = dbm.open('definitions', 'c')

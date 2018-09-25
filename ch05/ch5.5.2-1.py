@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 from collections import Counter
 breakfast = ['spam', 'spam', 'eggs', 'spam']
 breakfast_counter = Counter(breakfast)

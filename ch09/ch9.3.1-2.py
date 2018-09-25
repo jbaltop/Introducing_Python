@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import webbrowser
 
 url = 'http://www.python.org/'

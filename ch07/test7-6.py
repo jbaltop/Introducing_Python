@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import re
 
 mammoth = '''We have seen thee, queen of cheese,

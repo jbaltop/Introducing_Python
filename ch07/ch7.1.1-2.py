@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 snowman = '\u2603'
 print(len(snowman))
 

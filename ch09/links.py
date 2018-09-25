@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def get_links(url):
 	import requests
 	from bs4 import BeautifulSoup as soup

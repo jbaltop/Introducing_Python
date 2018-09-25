@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 def echo(anything):
 	'echo returns its input argument'
 	return anything
