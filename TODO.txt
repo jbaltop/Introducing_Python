@@ -1,0 +1,10 @@
+todo
+
+ch07/ex20_construct.py
+ch08/ex39_memcached.py
+ch09/ex05_apache.py
+ch10/ex06_link.py
+ch10/ex10_realpath.py
+ch10/ex37_locale.py
+ch11/
+ch12/
