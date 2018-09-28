@@ -1,6 +1,6 @@
 # p314
 
-"""example usage
+"""usage
 $ python links.py http://boingboing.net"""
 
 

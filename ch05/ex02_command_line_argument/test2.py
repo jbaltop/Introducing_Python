@@ -1,6 +1,6 @@
 # p154
 
-"""example usage
+"""usage
 $ python test2.py tra la la"""
 
 import sys
