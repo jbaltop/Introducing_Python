@@ -50,13 +50,13 @@ $ pip install -r requirements.txt
 On Linux and Mac:
 
 ```
-$ mkdir ch08/output ch10/output
+$ mkdir ch08/output ch10/output ch12/output
 ```
 
 On Windows:
 
 ```
-> md ch08\output ch10\output
+> md ch08\output ch10\output ch12\output
 ```
 
 ## References
