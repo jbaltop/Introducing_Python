@@ -1,12 +1,8 @@
 todo
 
-ch07/ex20_construct.py
 ch08/ex39_memcached.py
 ch09/ex05_apache.py
-ch10/ex06_link.py
-ch10/ex10_realpath.py
 ch10/ex37_locale.py
-ch11/ex01_process/dishes.py
 ch11/ex07_twisted/knock_(server|client).py
 ch11/ex08_redis/redis_dryer2.py
 ch11/ex16_fabric/fab[1-4].py
