@@ -3,8 +3,5 @@ todo
 ch08/ex39_memcached.py
 ch09/ex05_apache.py
 ch10/ex37_locale.py
-ch11/ex07_twisted/knock_(server|client).py
 ch11/ex08_redis/redis_dryer2.py
 ch11/ex16_fabric/fab[1-4].py
-ch11/pr05/(publisher|subscriber).py
-ch12/ex20_measure_time/timeit2.py
