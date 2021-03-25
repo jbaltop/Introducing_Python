@@ -27,7 +27,7 @@ pycodestyle==2.4.0
 pycparser==2.19
 pyflakes==2.0.0
 pylint==2.1.1
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 redis==2.10.6
 requests==2.19.1
