@@ -3,7 +3,7 @@ astroid==2.0.4
 attrs==18.2.0
 beautifulsoup4==4.6.3
 black==18.6b4
-bottle==0.12.13
+bottle==0.12.19
 certifi==2018.8.24
 cffi==1.11.5
 chardet==3.0.4
